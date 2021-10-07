@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -31,7 +31,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Mobile Apps Developer</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Jakarta Selatan, Indonesia</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>hermanto.ditya@gmail.com</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+62 812-9292-1433</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+62 812-9292-1433 <b>  or </b><a href="https://api.whatsapp.com/send?phone=6281292921433&text=Hello%20Ditya%20Developer." target="_blank"><i class="fa fa-whatsapp fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i></a></p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
@@ -99,7 +99,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Mobile Developer / Ginting Tracking Sistem</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Aug 2018 - Aug 2019</h6>
-         
+         <hr>
         </div>
       </div>
 
@@ -182,19 +182,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-gamepad fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Game Project</h2>
          <div class="w3-container">
           <h5 class="w3-opacity"><b>Tank DPS</b></h5> 
-          <p>Play Game</p>
+          <a href="https://dityadeveloper.github.io/tankdps.github.io/" target="_blank"><b>Play Game</b></a>
           <hr>
         </div> 
 
          <div class="w3-container">
           <h5 class="w3-opacity"><b>Cutle bee</b></h5> 
-          <p>Play Game</p>
+          <a href="https://dityadeveloper.github.io/cutlebee.github.io/" target="_blank"><b>Play Game</b></a>
           <hr>
         </div> 
 
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Cannon Deffender</b></h5> 
-          <p>Play Game</p>
+           <a href="https://dityadeveloper.github.io/canondps.github.io/" target="_blank"><b>Play Game</b></a>
           <hr>
         </div> 
       </div>
@@ -211,14 +211,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </div>
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
-  <p>Find me on social media.</p>
-  <i class="fa fa-facebook-official w3-hover-opacity"></i>
-  <i class="fa fa-instagram w3-hover-opacity"></i>
-  <i class="fa fa-snapchat w3-hover-opacity"></i>
-  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-  <i class="fa fa-twitter w3-hover-opacity"></i>
-  <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+  <p><b>- TRY EVERYTHING TO GET ANYTHING -</b></p>
+ 
 </footer>
 
 </body>
