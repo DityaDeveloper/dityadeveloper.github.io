@@ -134,7 +134,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-space-shuttle fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Company Project</h2>
          <div class="w3-container">
           <img src="klix.png" alt="Klix Sales Apps" width="120" height="80"><h5 class="w3-opacity"><b>Klix Sales Agent Apps</b></h5>
-           <a href="https://we.tl/t-oB72l565gy" target="_blank"><b>Link download</b></a>
+           <a href="https://we.tl/t-YKxnSI8QAg" target="_blank"><b>Link download</b></a>
           <p></p>
           <hr>
        
@@ -146,31 +146,31 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-rocket fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Personal Project</h2>
          <div class="w3-container">
           <img src="biznet.png" alt="Biznet Apps" width="120" height="80"><h5 class="w3-opacity"><b>Biznet</b></h5> 
-           <a href="https://we.tl/t-JCnw6w2Ygm" target="_blank"><b>Link download</b></a>
+           <a href="https://we.tl/t-OnY5zDGUJK" target="_blank"><b>Link download</b></a>
           <hr>
         </div> 
 
         <div class="w3-container">
           <img src="kasku.png" alt="Klix Sales Apps" width="120" height="80"><h5 class="w3-opacity"><b>Kasku Warteg Bahari Tj Barat</b></h5> 
-          <a href="https://we.tl/t-5GMM8P3WnV" target="_blank"><b>Link download</b></a>
+          <a href="https://we.tl/t-1l67xa4ziy" target="_blank"><b>Link download</b></a>
           <hr>
         </div>  
 
          <div class="w3-container">
           <img src="sjg.png" alt="Klix Sales Apps" width="120" height="80"><h5 class="w3-opacity"><b>Go SJG apps</b></h5> 
-          <a href="https://we.tl/t-dPLBXT1rGq" target="_blank"><b>Link download</b></a>
+          <a href="https://we.tl/t-FO5WZwUls8" target="_blank"><b>Link download</b></a>
           <hr>
         </div> 
 
         <div class="w3-container">
           <img src="snowwash.png" alt="Klix Sales Apps" width="120" height="80"><h5 class="w3-opacity"><b>Snow wash apps</b></h5> 
-         <a href="https://we.tl/t-LDb38gtmUS" target="_blank"><b>Link download</b></a>
+         <a href="https://we.tl/t-WwLM6UH3nd" target="_blank"><b>Link download</b></a>
           <hr>
         </div> 
 
         <div class="w3-container">
           <img src="laundry.png" alt="Klix Sales Apps" width="120" height="80"><h5 class="w3-opacity"><b>Laundry apps</b></h5> 
-         <a href="https://we.tl/t-7ptVMz3CcG" target="_blank"><b>Link download</b></a>
+         <a href="https://we.tl/t-1B03zEXrbe" target="_blank"><b>Link download</b></a>
           <hr>
         </div>
 
