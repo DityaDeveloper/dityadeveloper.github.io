@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&display=swap");
 :root {
-  --card-width: 350px;
-  --card-height: 550px;
+  --card-width: 250px;
+  --card-height: 350px;
   --card-transition-duration: 800ms;
   --card-transition-easing: ease;
 }
@@ -296,8 +296,8 @@ button:focus {
 
 @media only screen and (min-width: 800px) {
   :root {
-    --card-width: 350px;
-    --card-height: 550px;
+    --card-width: 250px;
+    --card-height: 350px;
   }
 }
 .support {
