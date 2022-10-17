@@ -1,0 +1,27 @@
+{
+    "message": "Berhasil mendapatkan data",
+    "data": {
+              [
+               {
+               "id": 1,
+               "role": "super admin",
+               },
+               {
+               "id": 2,
+               "role": "admin backoffice",
+               },
+               {
+               "id": 3,
+               "role": "owner store",
+               },
+               {
+               "id": 4,
+               "role": "admin store",
+               },
+               {
+               "id": 5,
+               "role": "cashier store",
+               },
+              ]
+            }
+}
