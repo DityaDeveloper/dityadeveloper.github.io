@@ -1,0 +1,24 @@
+{
+    "message": "Berhasil mendapatkan data",
+    "data": {
+            "id": 12345,
+            "role": "owner",
+            "username": "aditya developer",
+            "email": "hermanto.ditya@gmail.com",
+            "phone": "081292921433",
+            "avatar": "/user/profile/dityadeveloper.png",
+            "password": "$2y$12$DssTSW.Cz4ZMso.rzLGLjOMTSDVxQMIF9cnIvbnvTAu4kK5HI0vaS",
+            "address_country": "indonesia",
+            "address_province": "jakarta selatan",
+            "address_city": "jakarta",
+            "address_postcode": "12460",
+            "address_street": "kepo ya",
+            "store_name": "internpos contoh",
+            "store_address": "kepo ya",
+            "store_type": "f&b",
+            "store_province": "jakarta selatan",
+            "store_country": "indonesia",
+            "store_city": "jakarta",
+            "package_type": "super premium",
+            }
+}
