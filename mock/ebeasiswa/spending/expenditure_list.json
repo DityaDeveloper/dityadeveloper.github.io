@@ -9,7 +9,7 @@
 	    "alamat" : "jl. testing saja",
 	    "expenditure" : 1000000,
 	    "expenditure_date" : "11/7/2022",
-	    "expenditure_time" : "10.00",
+	    "expenditure_time" : "10.00"
         },
         {
             "id": 12346,
@@ -18,7 +18,7 @@
 	    "alamat" : "jl. testing saja2",
 	    "expenditure" : 10000000,
 	    "expenditure_date" : "11/7/2022",
-	    "expenditure_time" : "13.00",
+	    "expenditure_time" : "13.00"
         },
         {
             "id": 12347,
