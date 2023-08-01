@@ -1,0 +1,13 @@
+{
+    "message": "data profil show",
+    "status": true,
+    "data": {
+      "id": 12345,
+      "name": "septia rachmawati",
+	    "email": "septia@gmail.com",
+	    "alamat" : "jl. testing saja",
+	    "expenditure" : 1000000,
+	    "expenditure_date" : "11/7/2022",
+	    "expenditure_time" : "10.00"
+        }
+}
