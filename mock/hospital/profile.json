@@ -1,0 +1,12 @@
+{
+  "status": true,
+  "message": "profil berhasil",
+  "metadata": {
+	"username": "ditya developer",
+	"email": "ditya@developer.com",
+  "phone": "081292921433",
+  "medisid": "922192102",
+  "address": "jakarta",
+  "tgllahir": "12091990"
+  }
+}
