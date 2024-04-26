@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <title>CRUD Application Javascript | Html | Css</title>
+    <link rel="stylesheet" href="./css/notification.css" />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h2 class="mt-5 mb-5">BPJS Pengumuman Test</h2>
+      <div class="mb-5">
+        <marquee id="marq" class="marquee-text"></marquee>
+        <div class="row">
+          <div class="form-group col-md-6 mb-3">
+            <label for="title">Title</label>
+            <input
+              type="text"
+              name="title"
+              class="form-control"
+              id="title"
+              placeholder="Enter Title"
+            />
+          </div>
+          <div class="form-group col-md-6 mb-3">
+            <label for="kantor">Kantor</label>
+            <input
+              type="text"
+              name="kantor"
+              class="form-control"
+              id="kantor"
+              placeholder="Enter Kantor"
+            />
+          </div>
+          <div class="form-group col-md-6 mb-3">
+            <label for="status">status</label>
+            <select id="status">
+              <option value="aktif">aktif</option>
+              <option value="tidak aktif">tidak aktif</option>
+            </select>
+          </div>
+          <div class="form-group col-md-6 mb-3">
+            <label for="keterangan">Keterangan</label>
+            <input
+              type="text"
+              name="keterangan"
+              class="form-control"
+              id="keterangan"
+              placeholder="Enter keterangan"
+            />
+          </div>
+          <div class="col-lg-12 mt-2">
+            <button class="btn btn-success" id="submit" onclick="AddData()">
+              Add Data
+            </button>
+
+            <button class="btn btn-primary" id="update" onclick="AddData()">
+              Update
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <hr />
+      <div class="row mt-5">
+        <div class="col-12">
+          <table class="table table-bordered" id="crudtable">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Kantor</th>
+                <th>status</th>
+                <th>keterangan</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <script src="./js/notification.js"></script>
+  </body>
+</html>

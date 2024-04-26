@@ -1,0 +1,64 @@
+#update{
+    display: none;
+}
+
+.marquee-text {
+    height: 30px;
+    display: block;
+    line-height: 30px;
+    overflow: hidden;
+    position: relative;
+    background: #ddd;
+  }
+  
+  .marquee-text:before,
+  .marquee-text:after {
+    content: '';
+    position: absolute;
+    width: 5px;
+    height: 100%;
+    background: #ddd;
+    top: 0;
+    z-index: 2;
+  }
+  
+  .marquee-text:before {
+    left: 0;
+  }
+  
+  .marquee-text:after {
+    right: 0;
+  }
+  
+  .marquee-text div {
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px;
+    white-space: nowrap;
+    color: #555555;
+    z-index: 1;
+    animation: marquee 15s linear infinite;
+  }
+  
+  .marquee-text:hover div {
+    animation-play-state: paused
+  }
+  
+  @keyframes marquee {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }

@@ -1,0 +1,27 @@
+.container {
+    background-color: green;
+    position: relative;
+    left: 10vw;
+    top: 25vh;
+    height: 50vh;
+    width: 80vw;
+  }
+  
+  .box-one {
+    background-color: red;
+    height: 80%;
+    width: 80%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+  }
+  
+  .box-two {
+    background-color: blue;
+    height: 80%;
+    width: 80%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
