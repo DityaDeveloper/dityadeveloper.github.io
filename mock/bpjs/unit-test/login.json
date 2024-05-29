@@ -1,16 +1,30 @@
- {
-    ret: 0,
+{
+ "login-valid": {
+  ret: 0,
     statusCode: 200,
     msg: "Berhasil Login",
     auth: true,
     data: {
-      username: "SA133650",
-      nama: "SANCO SIMANULLANG",
-      npk: "133650175",
-      email: "sanco.simanullang@bpjsketenagakerjaan.go.idx",
-      kodeKantor: "901",
-      kodeJabatan: 36741,
+      "username" : "SA133650",
+      "nama" : "SANCO SIMANULLANG",
+      "npk" : "133650175",
+      "email" : "sanco.simanullang@bpjsketenagakerjaan.go.idx",
+      "kodeKantor": "901",
+      "kodeJabatan": 36741,
     },
-    token:
+    "token":
       "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNBMTMzNjUwIiwibmFtYSI6IlNBTkNPIFNJTUFOVUxMQU5HIiwibnBrIjoiMTMzNjUwMTc1IiwiZW1haWwiOiJzYW5jby5zaW1hbnVsbGFuZ0BicGpza2V0ZW5hZ2FrZXJqYWFuLmdvLmlkeCIsImtvZGVLYW50b3IiOiI5MDEiLCJrb2RlSmFiYXRhbiI6MzY3NDEsImlhdCI6MTcxNjI2NTQ1NSwiZXhwIjoxNzE2MzA4NjU1fQ.NkwFXEvQz1Zj9WPxgyBdVzLsvXv-ZAPoMYBZk3nrmchR22i10lEQlNyxuN0BcvWEfNCfrshAmCJ2ewqMihWDexVocgXfrsU9yAk3fwupGvld2IsiVPjqE41Wq44NFGVYvCj8sqZ5w0EfGklAuD3CKMZ6eaqo1JjgGjw6xF17gQwo5h47bxJRG-405Ux6H7Xxv16lBqBNJdj1pr-WNYY7vQGbJ1exld868SmOXQ9ny2EcWAZ3LbZQIHV8ZsgMUA1Ze23FCOZjmd1CV_YRXP-T4Ik754zr0WVGhM39DjeBJqQ0AvHoA5NOkaMgDJ77FDkeZdWSZ6L102furzyh68acdw",
-  }
+ },
+"login-invalid":{
+    "ret": "-1",
+    "msg": "Username atau Password salah! Pastikan besar/kecil huruf dan angka sesuai.",
+    "status": false,
+    "statusCode": 203
+},
+"login-timeout":{
+    "ret": "-1",
+    "msg": "connect ETIMEDOUT 172.28.201.116:2014",
+    "status": false,
+    "statusCode": 203
+},
+}
