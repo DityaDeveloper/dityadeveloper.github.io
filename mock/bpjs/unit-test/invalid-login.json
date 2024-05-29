@@ -1,0 +1,6 @@
+{
+    "ret": "-1",
+    "msg": "Username atau Password salah! Pastikan besar/kecil huruf dan angka sesuai.",
+    "status": false,
+    "statusCode": 203
+}
