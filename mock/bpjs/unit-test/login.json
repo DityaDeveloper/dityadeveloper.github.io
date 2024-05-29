@@ -1,10 +1,10 @@
 {
  "login-valid": {
-  ret: 0,
-    statusCode: 200,
-    msg: "Berhasil Login",
-    auth: true,
-    data: {
+  "ret": 0,
+    "statusCode": 200,
+    "msg": "Berhasil Login",
+    "auth": true,
+    "data": {
       "username" : "SA133650",
       "nama" : "SANCO SIMANULLANG",
       "npk" : "133650175",
